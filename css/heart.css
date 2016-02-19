@@ -1,0 +1,41 @@
+.product-container {
+  background: #dfdfdf;
+}
+
+.wider {
+  width: 100%;
+}
+
+.img-container {
+    position: relative;
+    display: inline;
+}
+
+.hotspot-container {
+    position:absolute;
+    left:30%;
+    top:60%;
+    max-width: 10%;
+}
+
+/* popover if needed
+.popover .popover-header {
+  padding: 8px 10px;
+  min-width: 800px;
+  background-color: #000;
+  border-bottom: 1px solid #ebebeb;
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+
+.popover .popover-title {
+  background-color: #000;
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+}
+
+.popover.fade.right.in {
+}
+*/
