@@ -16,8 +16,7 @@
 
 .vertical-limit {
   position: relative; 
-  padding-bottom: 56.25%; 
-  height: 0; 
+  width: 0; 
   overflow: hidden; 
   max-height: 100%; 
 } 
